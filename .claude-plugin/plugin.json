@@ -1,0 +1,8 @@
+{
+  "name": "modo-atacante",
+  "version": "1.0.0",
+  "description": "Revisa tu proyecto como un atacante: puntos débiles, puntos fuertes y cómo arreglarlos.",
+  "author": { "name": "nicofernandez.ia", "url": "https://www.instagram.com/nicofernandez.ia/" },
+  "license": "MIT",
+  "keywords": ["seguridad", "auditoria", "red-team", "prompt-injection", "ia"]
+}
