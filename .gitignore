@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+informe-modo-atacante.md
+.DS_Store
