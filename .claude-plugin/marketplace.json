@@ -1,0 +1,11 @@
+{
+  "name": "modo-atacante",
+  "owner": { "name": "nicofernandez.ia" },
+  "plugins": [
+    {
+      "name": "modo-atacante",
+      "source": "./",
+      "description": "Revisa tu proyecto como un atacante: puntos débiles, puntos fuertes y cómo arreglarlos."
+    }
+  ]
+}
